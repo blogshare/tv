@@ -667,6 +667,19 @@
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
     {
+      "name": "live",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=http://8.138.7.223/live.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "catchup": {
+        "type": "append",
+        "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
+    },
+    {
       "name": "牛播一（仅新版影视仓┃ok影视）",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
