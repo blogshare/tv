@@ -560,7 +560,7 @@
       }
     },
     {
-      "name": "live",
+      "name": "live2",
       "type": 0,
       "playerType": 1,
       "url": "./lib/25.txt",
