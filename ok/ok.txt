@@ -849,6 +849,19 @@
   ],
   "lives": [
     {
+      "name": "live",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=http://8.138.7.223/live.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "catchup": {
+        "type": "append",
+        "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
+    },
+    {
       "name": "国内Live",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740592110565/zq.fif.txt",
