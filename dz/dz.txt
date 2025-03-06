@@ -5257,7 +5257,13 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=url=http://8.138.7.223/live.txt"
+            "proxy://do=live&type=txt&ext=http://8.138.7.223/live.txt"
+          ]
+        },
+		    {
+          "name": "ipv4",
+          "urls": [
+            "proxy://do=live&type=txt&ext=https://live.zbds.top/tv/iptv4.txt"
           ]
         },
         {
