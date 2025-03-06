@@ -861,6 +861,19 @@
         "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
       }
     },
+	  {
+      "name": "ipv4",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://live.zbds.top/tv/iptv4.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "catchup": {
+        "type": "append",
+        "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
+    },
     {
       "name": "国内Live",
       "type": 0,
