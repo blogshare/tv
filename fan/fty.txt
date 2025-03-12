@@ -674,6 +674,14 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
+    {
+      "name": "live2",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://150.158.112.123/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
+    },
 	  {
       "name": "ipv4",
       "type": 0,
