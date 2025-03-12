@@ -12,10 +12,18 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp"
     },
-	{
+    {
       "name": "live",
       "type": 0,
       "url": "http://8.138.7.223/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp"
+    },
+    {
+      "name": "live2",
+      "type": 0,
+      "url": "http://150.158.112.123/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp"
