@@ -861,6 +861,19 @@
         "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
       }
     },
+    {
+      "name": "live2",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=http://150.158.112.123/live.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "catchup": {
+        "type": "append",
+        "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
+    },
 	  {
       "name": "ipv4",
       "type": 0,
