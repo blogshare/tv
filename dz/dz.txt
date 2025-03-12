@@ -5260,6 +5260,12 @@
             "proxy://do=live&type=txt&ext=http://8.138.7.223/live.txt"
           ]
         },
+	{
+          "name": "live2",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://150.158.112.123/live.txt"
+          ]
+        },
 		    {
           "name": "ipv4",
           "urls": [
