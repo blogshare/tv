@@ -41,67 +41,6 @@
       "filterable": 0
     },
     {
-      "key": "鲨鱼影视",
-      "name": "鲨鱼鲨鱼",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/shayu.json"
-    },
-    {
-      "key": "海豚影视",
-      "name": "海豚影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/haitun.json"
-    },
-    {
-      "key": "螃蟹影视",
-      "name": "螃蟹影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/pangxie.json"
-    },
-    {
-      "key": "熊猫影视⑧",
-      "name": "熊猫影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/xiongmao.json"
-    },
-    {
-      "key": "大鹅影视",
-      "name": "大鹅影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/dae.json"
-    },
-    {
-      "key": "JP",
-      "name": "新更金牌",
-      "type": 3,
-      "api": "csp_WebJP",
-      "jar": "https://codeberg.org/mzjk0/api/raw/branch/main/0213.zip",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKTwpbDpMOdwrLCr8KowpbCn8KdV8KlwpPCocOtw6PCo1dqUMKgw47lh7/phaHmkJ/lkJZc5Yac5L2H5ZGwwq3lv6voqL/otr7mu4PnrInCjVfCpcKTwqHDncOfwpbCosKpwqDDrcK+w5/DssKhbVBXwqfCrsKowqvCqcKsZ2hXwq0="
-    },
-    {
       "key": "nm",
       "name": "紫草农民",
       "type": 3,
@@ -137,44 +76,12 @@
       "ext": "daHR0cDovL3YubGt1eXMuY24="
     },
     {
-      "key": "剧评",
-      "name": "剧评纯净",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
-    },
-    {
       "key": "木头",
       "name": "木头纯净",
       "type": 3,
       "api": "csp_Shark",
       "playerType": 1,
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
-    },
-    {
-      "key": "永夜",
-      "name": "永夜纯净",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
-    },
-    {
-      "key": "星河",
-      "name": "星河纯净",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "caHR0cDovL21vdS5qcDU1LmNufOi/veW/huW9seinhnw0LjEuOQ=="
-    },
-    {
-      "key": "油条",
-      "name": "油条纯净",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS45"
     },
     {
       "key": "23ys",
@@ -185,38 +92,6 @@
       "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
     },
     {
-      "key": "主角",
-      "name": "主角纯净",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
-    },
-    {
-      "key": "时常",
-      "name": "时常纯净",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
-    },
-    {
-      "key": "雨滴",
-      "name": "雨滴纯净",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
-    },
-    {
-      "key": "现代",
-      "name": "现代纯净",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
-    },
-    {
       "key": "玉米",
       "name": "玉米纯净",
       "type": 3,
@@ -225,36 +100,12 @@
       "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
     },
     {
-      "key": "优质",
-      "name": "优质纯净",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
-    },
-    {
-      "key": "木叶",
-      "name": "木叶纯净",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc="
-    },
-    {
       "key": "蝴蝶",
       "name": "蝴蝶纯净",
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-    },
-    {
-      "key": "柠檬",
-      "name": "柠檬纯净",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
     },
     {
       "key": "AI2",
