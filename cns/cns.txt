@@ -14,123 +14,6 @@
       "changeable": 0
     },
     {
-      "key": "荐片",
-      "name": "荐片┃P2P",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/jianpian.json",
-      "jar": "./lib/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
-    },
-    {
-      "key": "短剧天堂",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/短剧天堂.json",
-      "jar": "./lib/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-    },
-    {
-      "key": "新6V",
-      "name": "新6V┃磁力",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./lib/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
-    },
-    {
-      "key": "Kanqiu",
-      "name": "🏀看球┃看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "jar": "./lib/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
-    },
-    {
-      "key": "巴士",
-      "name": "巴士┃动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./lib/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
-    },
-    {
-      "key": "异界",
-      "name": "异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./lib/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
-    },
-    {
-      "key": "哔哩哔哩",
-      "name": "哔哩┃哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "./lib/bili.json",
-        "type": "帕梅拉#太极拳#广场舞#演唱会",
-        "cookie": ""
-      },
-      "jar": "./lib/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
-    },
-    {
-      "key": "Kugou",
-      "name": "🎵酷狗┃音乐",
-      "type": 3,
-      "api": "csp_Kugou",
-      "searchable": 0,
-      "changeable": 0,
-      "jar": "./lib/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
-    },
-    {
-      "key": "Local",
-      "name": "本地┃文件",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "changeable": 0,
-      "jar": "./lib/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
-    },
-    {
-      "key": "FirstAid",
-      "name": "🚑急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      },
-      "jar": "./lib/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
-    },
-    {
-      "key": "酷看",
-      "name": "酷看┃影视",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 15
-    },
-    {
       "key": "Lib",
       "name": "立播┃影视",
       "type": 3,
@@ -141,14 +24,6 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       }
-    },
-    {
-      "key": "小点",
-      "name": "小点┃影视",
-      "type": 3,
-      "api": "csp_Appxdys",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "苹果",
@@ -204,16 +79,6 @@
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
-      "key": "萌米",
-      "name": "萌米┃影视",
-      "api": "csp_AppTT",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 15,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
       "key": "南瓜",
       "name": "南瓜┃影视",
       "type": 3,
@@ -255,18 +120,6 @@
       "ext": "./lib/jrk.js"
     },
     {
-      "key": "企鹅xp",
-      "name": "🐧鹅鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": "./lib/企鹅直播.json"
-    },
-    {
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
@@ -280,40 +133,6 @@
       "ext": "./lib/酷奇MV.js"
     },
     {
-      "key": "MTV",
-      "name": "🎧明星┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/MTV.json"
-    },
-    {
-      "key": "csp_Yj1211",
-      "name": "📽️网红┃直播",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "ext": "./lib/huya2.js"
-    },
-    {
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
@@ -325,32 +144,6 @@
         "ratio": 1.755
       },
       "ext": "./lib/斗鱼直播.js"
-    },
-    {
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱明星┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/biliych.json"
     },
     {
       "key": "dr_兔小贝",
@@ -418,27 +211,10 @@
       "ext": "./lib/高中课堂.json"
     },
     {
-      "key": "360影视",
-      "name": "360┃解析",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./lib/xyq0729.jar;md5;705ba6e23c4384c37a11dd904727520b"
-    },
-    {
       "key": "非凡",
       "name": "非凡┃影视",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "雨落",
-      "name": "雨落┃影视",
-      "type": 1,
-      "api": "http://dsakf23665.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
     },
