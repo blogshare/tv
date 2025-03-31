@@ -153,15 +153,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Xunlei8",
-      "name": "🧲迅雷吧",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "360_spider",
       "name": "🐞360影视",
       "type": 3,
@@ -290,16 +281,6 @@
       "ext": "./lib/高中课堂.json"
     },
     {
-      "key": "JS哔哩直播",
-      "name": "哔哩直播[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/哔哩直播.js"
-    },
-    {
       "key": "csp_XYQHiker_戏曲多多",
       "name": "🎻戏曲多多",
       "type": 3,
@@ -390,16 +371,6 @@
       "ext": "./lib/嗷呜动漫.json"
     },
     {
-      "key": "csp_XYQHiker_动漫巴士",
-      "name": "🚌动漫巴士(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/动漫巴士.json"
-    },
-    {
       "key": "csp_XYQHiker_农民影视",
       "name": "🧑🏻‍农民影视",
       "type": 3,
@@ -408,16 +379,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/农民影视.json"
-    },
-    {
-      "key": "csp_XYQHiker_七新影视",
-      "name": "🌟七新影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/七新影视.json"
     },
     {
       "key": "csp_XYQHiker_骚火电影VIP",
@@ -440,16 +401,6 @@
       "ext": "./lib/电影盒子.json"
     },
     {
-      "key": "csp_XYQHiker_星辰影院",
-      "name": "⭐️星辰影院(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/星辰影院.json"
-    },
-    {
       "key": "csp_XYQHiker_可可影视",
       "name": "☕️可可影视(XYQH)",
       "type": 3,
@@ -460,16 +411,6 @@
       "ext": "./lib/可可影视.json"
     },
     {
-      "key": "csp_XYQHiker_爱看影视",
-      "name": "👀爱看影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/爱看影视.json"
-    },
-    {
       "key": "csp_XYQHiker_看一看影视",
       "name": "🔍看一看影视(XYQH)",
       "type": 3,
@@ -478,16 +419,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/看一看影视.json"
-    },
-    {
-      "key": "csp_XYQHiker_九八局",
-      "name": "🍷九八剧(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/九八剧.json"
     },
     {
       "key": "csp_XYQHiker_八号影视",
