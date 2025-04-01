@@ -58,30 +58,6 @@
       "changeable": 1
     },
     {
-      "key": "雷鲸",
-      "name": "💓‍雷鲸┃4K💓‍",
-      "type": 3,
-      "api": "csp_Wexleijing",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "玩偶",
-      "name": "💓‍玩偶┃4K💓‍",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexnullname",
-      "name": "💓无名┃4K💓",
-      "type": 3,
-      "api": "csp_Wexnullname",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "Wexyingchao",
       "name": "💓鸟巢┃4K💓",
       "type": 3,
