@@ -354,13 +354,6 @@
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/53c803b0532c462fb2d2c3c641ba357b.jpg"
     },
     {
-      "key": "哔哩直播",
-      "name": "哔哩┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/82d4b21cc0d8492898457b256010bd98.jpg"
-    },
-    {
       "key": "MV大全",
       "name": "MV┃音乐",
       "type": 4,
