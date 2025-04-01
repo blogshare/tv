@@ -50,38 +50,10 @@
       "changeable": 1
     },
     {
-      "key": "Wexalllive",
-      "name": "💓‍聚合┃直播💓‍",
-      "type": 3,
-      "api": "csp_Wexalllive",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "Wexbiliys",
       "name": "💓‍哔哩┃影视💓‍",
       "type": 3,
       "api": "csp_Wexbiliys",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "115",
-      "name": "💓‍115┃4K💓‍",
-      "type": 3,
-      "api": "csp_Wex115share",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 50,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "盘他",
-      "name": "💓‍盘他┃4K💓‍",
-      "type": 3,
-      "api": "csp_WexYDpanta",
       "searchable": 1,
       "changeable": 1
     },
